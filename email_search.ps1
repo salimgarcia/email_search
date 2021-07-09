@@ -6,7 +6,7 @@ replace it with a new email.
 #>
 
 Param(
-  [string]$filepath="C:\Users\Salim.Garcia\OneDrive - CSNW\Documents\emails", 
+  [string]$filepath, 
   [string]$email
 )
 
